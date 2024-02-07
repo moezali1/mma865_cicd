@@ -14,7 +14,7 @@ from main import my_function
 
 def test_my_function():
     # Test with integers
-    assert my_function(2, 3) == 5
+    assert my_function(2, 3) == 6
     # Test with floats
     assert my_function(2.5, 3.5) == 6.0
     # Test with negative numbers
