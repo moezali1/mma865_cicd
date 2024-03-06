@@ -3,4 +3,4 @@
 
 
 def my_function(a, b):
-    return a + (b * 2)
+    return a + b
