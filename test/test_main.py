@@ -9,7 +9,7 @@ parent_dir = os.path.dirname(current_dir)
 sys.path.append(parent_dir)
 
 # Now you can import my_function from main.py
-from main import my_function
+from add_numbers import my_function
 
 
 def test_my_function():
